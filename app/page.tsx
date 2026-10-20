@@ -69,7 +69,6 @@ export default function Home() {
           <Stage draggable>
             <Seal />
             <NowPlaying />
-            <p className="hint">Drag the glass to turn it</p>
           </Stage>
         </div>
 
